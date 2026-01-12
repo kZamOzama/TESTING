@@ -1,0 +1,601 @@
+-- Obfiscate test (ALL AI BTW :D)
+
+local _ENV_CORE = (function()
+    local function NormalizeRaycast_871(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_148(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_800(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_697(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_494(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function UpdateSignalState_982(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_158(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_398(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_377(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_996(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_458(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_746(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function UpdateSignalState_591(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_827(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_193(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function UpdateSignalState_236(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_636(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_900(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_855(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_998(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_930(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_884(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_925(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_709(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function UpdateSignalState_508(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_211(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_813(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_148(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_608(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_541(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_517(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_465(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_829(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_852(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_271(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function UpdateSignalState_551(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_250(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_678(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_778(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_888(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_253(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_959(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_830(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_382(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_698(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_229(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_804(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_150(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_605(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_967(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_971(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function UpdateSignalState_407(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_654(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function UpdateSignalState_674(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_468(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_798(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_211(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_992(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_382(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function UpdateSignalState_312(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_335(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function UpdateSignalState_761(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_694(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_460(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_755(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_558(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_423(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_954(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_289(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_848(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_387(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_810(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function GetInternalIdentifier_971(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function UpdateSignalState_333(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function UpdateSignalState_971(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function NormalizeRaycast_741(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function UpdateSignalState_721(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_350(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function CalculateVectorOffset_530(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+local function UpdateSignalState_959(input_data, multiplier)
+    local _temp = math.pi * (multiplier or 1)
+    if type(input_data) == 'table' then
+        for i, v in pairs(input_data) do _temp = _temp + i end
+    end
+    return math.floor(_temp * 100) / 100
+end
+
+    local _HEX_BLOB = "2866756e6374696f6e28290a202020200a202020206c6f63616c205f565f44415441203d207b31302c3130382c3131312c39392c39372c3130382c33322c39352c39372c33322c36312c33322c3132332c31302c392c39312c33342c3132302c35372c33342c39332c33322c36312c33322c3130332c39372c3130392c3130312c35382c37312c3130312c3131362c38332c3130312c3131342c3131382c3130352c39392c3130312c34302c33342c38302c3130382c39372c3132312c3130312c3131342c3131352c33342c34312c34342c31302c392c39312c33342c3131332c34392c33342c39332c33322c36312c33322c3130332c39372c3130392c3130312c35382c37312c3130312c3131362c38332c3130312c3131342c3131382c3130352c39392c3130312c34302c33342c38322c3131372c3131302c38332c3130312c3131342c3131382c3130352c39392c3130312c33342c34312c34342c31302c392c39312c33342c3132322c35352c33342c39332c33322c36312c33322c3130332c39372c3130392c3130312c35382c37312c3130312c3131362c38332c3130312c3131342c3131382c3130352c39392c3130312c34302c33342c38352c3131352c3130312c3131342c37332c3131302c3131322c3131372c3131362c38332c3130312c3131342c3131382c3130352c39392c3130312c33342c34312c34342c31302c392c39312c33342c3130392c35302c33342c39332c33322c36312c33322c3130332c39372c3130392c3130312c35382c37302c3130352c3131302c3130302c38332c3130312c3131342c3131382c3130352c39392c3130312c34302c33342c38362c3130352c3131342c3131362c3131372c39372c3130382c37332c3131302c3131322c3131372c3131362c37372c39372c3131302c39372c3130332c3130312c3131342c33342c34312c34342c31302c392c39312c33342c3130372c34382c33342c39332c33322c36312c33322c36392c3131302c3131372c3130392c34362c37352c3130312c3132312c36372c3131312c3130302c3130312c34342c31302c3132352c31302c31302c3130382c3131312c39392c39372c3130382c33322c39352c39382c33322c36312c33322c39352c39372c39312c33342c3132302c35372c33342c39332c34362c37362c3131312c39392c39372c3130382c38302c3130382c39372c3132312c3130312c3131342c31302c3130382c3131312c39392c39372c3130382c33322c39352c39392c33322c36312c33322c39352c39382c35382c37312c3130312c3131362c37372c3131312c3131372c3131352c3130312c34302c34312c31302c31302c3130382c3131312c39392c39372c3130382c33322c39352c3130302c33322c36312c33322c3132332c31302c392c39312c33342c3130312c35362c33342c39332c33322c36312c33322c3130322c39372c3130382c3131352c3130312c34342c31302c392c39312c33342c3131362c35322c33342c39332c33322c36312c33322c34382c34342c31302c392c39312c33342c3131342c35342c33342c39332c33322c36312c33322c34382c34362c34392c34342c31302c392c39312c33342c3131322c35312c33342c39332c33322c36312c33322c3132332c33342c37352c3131302c3130352c3130322c3130312c33342c34342c33342c36382c39372c3130332c3130332c3130312c3131342c33342c34342c33342c36362c3130382c39372c3130302c3130312c33342c34342c33342c38332c3131392c3131312c3131342c3130302c33342c34342c33342c38332c39392c3132312c3131362c3130342c3130312c33342c34342c33342c37352c39372c3131342c39372c3130392c39382c3130352c3131362c33342c3132352c31302c3132352c31302c31302c34352c34352c33322c38352c37332c31302c3130382c3131312c39392c39372c3130382c33322c39352c3131372c33322c36312c33322c37332c3131302c3131352c3131362c39372c3131302c39392c3130312c34362c3131302c3130312c3131392c34302c33342c38332c39392c3131342c3130312c3130312c3131302c37312c3131372c3130352c33342c34312c31302c39352c3131372c34362c37382c39372c3130392c3130312c33322c36312c33322c33342c37372c3131312c3130302c3130312c3131342c3131302c3130352c3132322c3130312c3130302c36352c3131372c3131362c3131312c38332c3130342c3131312c3131312c3131362c33342c31302c39352c3131372c34362c38322c3130312c3131352c3130312c3131362c37392c3131302c38332c3131322c39372c3131392c3131302c33322c36312c33322c3130322c39372c3130382c3131352c3130312c31302c39352c3131372c34362c38302c39372c3131342c3130312c3131302c3131362c33322c36312c33322c39352c39382c35382c38372c39372c3130352c3131362c37302c3131312c3131342c36372c3130342c3130352c3130382c3130302c34302c33342c38302c3130382c39372c3132312c3130312c3131342c37312c3131372c3130352c33342c34312c31302c31302c3130382c3131312c39392c39372c3130382c33322c39352c3130382c33322c36312c33322c37332c3131302c3131352c3131362c39372c3131302c39392c3130312c34362c3131302c3130312c3131392c34302c33342c38342c3130312c3132302c3131362c37362c39372c39382c3130312c3130382c33342c34312c31302c39352c3130382c34362c38332c3130352c3132322c3130312c33322c36312c33322c38352c36382c3130352c3130392c35302c34362c3130322c3131342c3131312c3130392c37392c3130322c3130322c3131352c3130312c3131362c34302c35302c34382c34382c34342c35322c35332c34312c31302c39352c3130382c34362c38302c3131312c3131352c3130352c3131362c3130352c3131312c3131302c33322c36312c33322c38352c36382c3130352c3130392c35302c34362c3130322c3131342c3131312c3130392c38332c39392c39372c3130382c3130312c34302c34382c34362c35322c35332c34342c34382c34362c35362c35332c34312c31302c39352c3130382c34362c36362c39372c39392c3130372c3130332c3131342c3131312c3131372c3131302c3130302c36372c3131312c3130382c3131312c3131342c35312c33322c36312c33322c36372c3131312c3130382c3131312c3131342c35312c34362c3130322c3131342c3131312c3130392c38322c37312c36362c34302c35302c35332c34342c35302c35332c34342c35302c35332c34312c31302c39352c3130382c34362c38342c3130312c3132302c3131362c36372c3131312c3130382c3131312c3131342c35312c33322c36312c33322c36372c3131312c3130382c3131312c3131342c35312c34362c3130322c3131342c3131312c3130392c38322c37312c36362c34302c35302c35332c35332c34342c35352c34382c34342c35352c34382c34312c31302c39352c3130382c34362c38342c3130312c3132302c3131362c38332c39392c39372c3130382c3130312c3130302c33322c36312c33322c3131362c3131342c3131372c3130312c31302c39352c3130382c34362c37302c3131312c3131302c3131362c33322c36312c33322c36392c3131302c3131372c3130392c34362c37302c3131312c3131302c3131362c34362c37312c3131312c3131362c3130342c39372c3130392c36362c3131312c3130382c3130302c31302c39352c3130382c34362c38342c3130312c3132302c3131362c33322c36312c33322c33342c36352c38352c38342c37392c33322c38332c37322c37392c37392c38342c35382c33322c37392c37302c37302c33342c31302c39352c3130382c34362c36352c39392c3131362c3130352c3131382c3130312c33322c36312c33322c3131362c3131342c3131372c3130312c31302c39352c3130382c34362c38302c39372c3131342c3130312c3131302c3131362c33322c36312c33322c39352c3131372c31302c31302c37332c3131302c3131352c3131362c39372c3131302c39392c3130312c34362c3131302c3130312c3131392c34302c33342c38352c37332c36372c3131312c3131342c3131302c3130312c3131342c33342c34342c33322c39352c3130382c34312c31302c3130382c3131312c39392c39372c3130382c33322c39352c3131352c33322c36312c33322c37332c3131302c3131352c3131362c39372c3131302c39392c3130312c34362c3131302c3130312c3131392c34302c33342c38352c37332c38332c3131362c3131342c3131312c3130372c3130312c33342c34342c33322c39352c3130382c34312c31302c39352c3131352c34362c38342c3130342c3130352c39392c3130372c3131302c3130312c3131352c3131352c33322c36312c33322c35302c31302c39352c3131352c34362c36372c3131312c3130382c3131312c3131342c33322c36312c33322c36372c3131312c3130382c3131312c3131342c35312c34362c3130322c3131342c3131312c3130392c38322c37312c36362c34302c35342c34382c34342c35342c34382c34342c35342c34382c34312c31302c31302c34352c34352c33322c36382c3131342c39372c3130332c31302c3130382c3131312c39392c39372c3130382c33322c39352c3130322c34342c39352c3130332c34342c39352c3130342c31302c39352c3130382c34362c37332c3131302c3131322c3131372c3131362c36362c3130312c3130332c39372c3131302c35382c36372c3131312c3131302c3131302c3130312c39392c3131362c34302c3130322c3131372c3131302c39392c3131362c3130352c3131312c3131302c34302c3130352c34312c31302c392c3130352c3130322c33322c3130352c34362c38352c3131352c3130312c3131342c37332c3131302c3131322c3131372c3131362c38342c3132312c3131322c3130312c33322c36312c36312c33322c36392c3131302c3131372c3130392c34362c38352c3131352c3130312c3131342c37332c3131302c3131322c3131372c3131362c38342c3132312c3131322c3130312c34362c37372c3131312c3131372c3131352c3130312c36362c3131372c3131362c3131362c3131312c3131302c34392c33322c3131362c3130342c3130312c3131302c31302c392c392c39352c3130322c33322c36312c33322c3131362c3131342c3131372c3130312c31302c392c392c39352c3130332c33322c36312c33322c3130352c34362c38302c3131312c3131352c3130352c3131362c3130352c3131312c3131302c31302c392c392c39352c3130342c33322c36312c33322c39352c3130382c34362c38302c3131312c3131352c3130352c3131362c3130352c3131312c3131302c31302c392c3130312c3131302c3130302c31302c3130312c3131302c3130302c34312c31302c31302c39352c39372c39312c33342c3132322c35352c33342c39332c34362c37332c3131302c3131322c3131372c3131362c36372c3130342c39372c3131302c3130332c3130312c3130302c35382c36372c3131312c3131302c3131302c3130312c39392c3131362c34302c3130322c3131372c3131302c39392c3131362c3130352c3131312c3131302c34302c3130352c34312c31302c392c3130352c3130322c33322c39352c3130322c33322c39372c3131302c3130302c33322c3130352c34362c38352c3131352c3130312c3131342c37332c3131302c3131322c3131372c3131362c38342c3132312c3131322c3130312c33322c36312c36312c33322c36392c3131302c3131372c3130392c34362c38352c3131352c3130312c3131342c37332c3131302c3131322c3131372c3131362c38342c3132312c3131322c3130312c34362c37372c3131312c3131372c3131352c3130312c37372c3131312c3131382c3130312c3130392c3130312c3131302c3131362c33322c3131362c3130342c3130312c3131302c31302c392c392c3130382c3131312c39392c39372c3130382c33322c3130302c33322c36312c33322c3130352c34362c38302c3131312c3131352c3130352c3131362c3130352c3131312c3131302c33322c34352c33322c39352c3130332c31302c392c392c39352c3130382c34362c38302c3131312c3131352c3130352c3131362c3130352c3131312c3131302c33322c36312c33322c38352c36382c3130352c3130392c35302c34362c3131302c3130312c3131392c34302c39352c3130342c34362c38382c34362c38332c39392c39372c3130382c3130312c34342c39352c3130342c34362c38382c34362c37392c3130322c3130322c3131352c3130312c3131362c34332c3130302c34362c38382c34342c39352c3130342c34362c38392c34362c38332c39392c39372c3130382c3130312c34342c39352c3130342c34362c38392c34362c37392c3130322c3130322c3131352c3130312c3131362c34332c3130302c34362c38392c34312c31302c392c3130312c3131302c3130302c31302c3130312c3131302c3130302c34312c31302c31302c39352c39372c39312c33342c3132322c35352c33342c39332c34362c37332c3131302c3131322c3131372c3131362c36392c3131302c3130302c3130312c3130302c35382c36372c3131312c3131302c3131302c3130312c39392c3131362c34302c3130322c3131372c3131302c39392c3131362c3130352c3131312c3131302c34302c3130352c34312c31302c392c3130352c3130322c33322c3130352c34362c38352c3131352c3130312c3131342c37332c3131302c3131322c3131372c3131362c38342c3132312c3131322c3130312c33322c36312c36312c33322c36392c3131302c3131372c3130392c34362c38352c3131352c3130312c3131342c37332c3131302c3131322c3131372c3131362c38342c3132312c3131322c3130312c34362c37372c3131312c3131372c3131352c3130312c36362c3131372c3131362c3131362c3131312c3131302c34392c33322c3131362c3130342c3130312c3131302c31302c392c392c39352c3130322c33322c36312c33322c3130322c39372c3130382c3131352c3130312c31302c392c3130312c3131302c3130302c31302c3130312c3131302c3130302c34312c31302c31302c34352c34352c33322c37352c3131302c3130352c3130322c3130312c33322c39392c3130342c3130312c39392c3130372c31302c3130382c3131312c39392c39372c3130382c33322c3130322c3131372c3131302c39392c3131362c3130352c3131312c3131302c33322c39352c3131302c34302c34312c31302c392c3130382c3131312c39392c39372c3130382c33322c3131362c33322c36312c33322c39352c39382c34362c36372c3130342c39372c3131342c39372c39392c3131362c3130312c3131342c33322c39372c3131302c3130302c33322c39352c39382c34362c36372c3130342c39372c3131342c39372c39392c3131362c3130312c3131342c35382c37302c3130352c3131302c3130302c37302c3130352c3131342c3131352c3131362c36372c3130342c3130352c3130382c3130302c37392c3130322c36372c3130382c39372c3131352c3131352c34302c33342c38342c3131312c3131312c3130382c33342c34312c31302c392c3130352c3130322c33322c3131302c3131312c3131362c33322c3131362c33322c3131362c3130342c3130312c3131302c33322c3131342c3130312c3131362c3131372c3131342c3131302c33322c3130322c39372c3130382c3131352c3130312c33322c3130312c3131302c3130302c31302c392c3130322c3131312c3131342c33322c39352c34342c3131382c33322c3130352c3131302c33322c3130352c3131322c39372c3130352c3131342c3131352c34302c39352c3130302c39312c33342c3131322c35312c33342c39332c34312c33322c3130302c3131312c31302c392c392c3130352c3130322c33322c3131352c3131362c3131342c3130352c3131302c3130332c34362c3130322c3130352c3131302c3130302c34302c3131362c34362c37382c39372c3130392c3130312c35382c3130382c3131312c3131392c3130312c3131342c34302c34312c34342c33322c3131382c35382c3130382c3131312c3131392c3130312c3131342c34302c34312c34312c33322c3131362c3130342c3130312c3131302c31302c392c392c392c3131342c3130312c3131362c3131372c3131342c3131302c33322c3131362c3131342c3131372c3130312c31302c392c392c3130312c3131302c3130302c31302c392c3130312c3131302c3130302c31302c392c3131342c3130312c3131362c3131372c3131342c3131302c33322c3130322c39372c3130382c3131352c3130312c31302c3130312c3131302c3130302c31302c31302c34352c34352c33322c36392c3131302c3130312c3130392c3132312c33322c39392c3130342c3130312c39392c3130372c31302c3130382c3131312c39392c39372c3130382c33322c3130322c3131372c3131302c39392c3131362c3130352c3131312c3131302c33322c39352c3132312c34302c3131362c3131342c3130332c34312c31302c392c3130352c3130322c33322c3131302c3131312c3131362c33322c3131362c3131342c3130332c33322c3131362c3130342c3130312c3131302c33322c3131342c3130312c3131362c3131372c3131342c3131302c33322c3130322c39372c3130382c3131352c3130312c33322c3130312c3131302c3130302c31302c392c3130382c3131312c39392c39372c3130382c33322c3130392c33322c36312c33322c3131362c3131342c3130332c35382c37302c3130352c3131302c3130302c37302c3130352c3131342c3131352c3131362c36352c3131302c39392c3130312c3131352c3131362c3131312c3131342c37392c3130322c36372c3130382c39372c3131352c3131352c34302c33342c37372c3131312c3130302c3130312c3130382c33342c34312c31302c392c3130352c3130322c33322c3131302c3131312c3131362c33322c3130392c33322c3131312c3131342c33322c3130392c33322c36312c36312c33322c39352c39382c34362c36372c3130342c39372c3131342c39372c39392c3131362c3130312c3131342c33322c3131362c3130342c3130312c3131302c33322c3131342c3130312c3131362c3131372c3131342c3131302c33322c3130322c39372c3130382c3131352c3130312c33322c3130312c3131302c3130302c31302c392c3130382c3131312c39392c39372c3130382c33322c3130342c33322c36312c33322c3130392c35382c37302c3130352c3131302c3130302c37302c3130352c3131342c3131352c3131362c36372c3130342c3130352c3130382c3130302c37392c3130322c36372c3130382c39372c3131352c3131352c34302c33342c37322c3131372c3130392c39372c3131302c3131312c3130352c3130302c33342c34312c31302c392c3131342c3130312c3131362c3131372c3131342c3131302c33322c3130342c33322c39372c3131302c3130302c33322c3130342c34362c37322c3130312c39372c3130382c3131362c3130342c33322c36322c33322c34382c31302c3130312c3131302c3130302c31302c31302c34352c34352c33322c37302c3130352c3131342c3130312c31302c3130382c3131312c39392c39372c3130382c33322c3130322c3131372c3131302c39392c3131362c3130352c3131312c3131302c33322c39352c3131312c34302c34312c31302c392c3130352c3130322c33322c3131362c3130352c39392c3130372c34302c34312c33322c34352c33322c39352c3130302c39312c33342c3131362c35322c33342c39332c33322c36322c36312c33322c39352c3130302c39312c33342c3131342c35342c33342c39332c33322c3131362c3130342c3130312c3131302c31302c392c392c39352c3130302c39312c33342c3131362c35322c33342c39332c33322c36312c33322c3131362c3130352c39392c3130372c34302c34312c31302c392c392c3130382c3131312c39392c39372c3130382c33322c3131362c33322c36312c33322c39352c39382c34362c36372c3130342c39372c3131342c39372c39392c3131362c3130312c3131342c33322c39372c3131302c3130302c33322c39352c39382c34362c36372c3130342c39372c3131342c39372c39392c3131362c3130312c3131342c35382c37302c3130352c3131302c3130302c37302c3130352c3131342c3131352c3131362c36372c3130342c3130352c3130382c3130302c37392c3130322c36372c3130382c39372c3131352c3131352c34302c33342c38342c3131312c3131312c3130382c33342c34312c31302c392c392c3130352c3130322c33322c3131362c33322c3131362c3130342c3130312c3131302c33322c3131362c35382c36352c39392c3131362c3130352c3131382c39372c3131362c3130312c34302c34312c33322c3130312c3131302c3130302c31302c392c392c3130352c3130322c33322c39352c39372c39312c33342c3130392c35302c33342c39332c33322c3131362c3130342c3130312c3131302c31302c392c392c392c3131322c39392c39372c3130382c3130382c34302c3130322c3131372c3131302c39392c3131362c3130352c3131312c3131302c34302c34312c31302c392c392c392c392c39352c39372c39312c33342c3130392c35302c33342c39332c35382c38332c3130312c3131302c3130302c37372c3131312c3131372c3131352c3130312c36362c3131372c3131362c3131362c3131312c3131302c36392c3131382c3130312c3131302c3131362c34302c39352c39392c34362c38382c34342c39352c39392c34362c38392c34342c34382c34342c3131362c3131342c3131372c3130312c34342c3130332c39372c3130392c3130312c34342c34382c34312c31302c392c392c392c392c3131362c39372c3131352c3130372c34362c3130302c3130312c3130382c39372c3132312c34302c34382c34362c34382c34392c34342c3130322c3131372c3131302c39392c3131362c3130352c3131312c3131302c34302c34312c31302c392c392c392c392c392c39352c39372c39312c33342c3130392c35302c33342c39332c35382c38332c3130312c3131302c3130302c37372c3131312c3131372c3131352c3130312c36362c3131372c3131362c3131362c3131312c3131302c36392c3131382c3130312c3131302c3131362c34302c39352c39392c34362c38382c34342c39352c39392c34362c38392c34342c34382c34342c3130322c39372c3130382c3131352c3130312c34342c3130332c39372c3130392c3130312c34342c34382c34312c31302c392c392c392c392c3130312c3131302c3130302c34312c31302c392c392c392c3130312c3131302c3130302c34312c31302c392c392c3130312c3131302c3130302c31302c392c3130312c3131302c3130302c31302c3130312c3131302c3130302c31302c31302c34352c34352c33322c37362c3131312c3131312c3131322c31302c39352c39372c39312c33342c3131332c34392c33342c39332c34362c38322c3130312c3131302c3130302c3130312c3131342c38332c3131362c3130312c3131322c3131322c3130312c3130302c35382c36372c3131312c3131302c3131302c3130312c39392c3131362c34302c3130322c3131372c3131302c39392c3131362c3130352c3131312c3131302c34302c34312c31302c392c3130352c3130322c33322c3131302c3131312c3131362c33322c39352c3130302c39312c33342c3130312c35362c33342c39332c33322c3131362c3130342c3130312c3131302c33322c3131342c3130312c3131362c3131372c3131342c3131302c33322c3130312c3131302c3130302c31302c31302c392c3130352c3130322c33322c39352c3132312c34302c39352c39392c34362c38342c39372c3131342c3130332c3130312c3131362c34312c33322c39372c3131302c3130302c33322c3131302c3131312c3131362c33322c39352c3131302c34302c34312c33322c3131362c3130342c3130312c3131302c31302c392c392c39352c3130382c34362c38342c3130312c3132302c3131362c33322c36312c33322c33342c37302c37332c38322c37332c37382c37312c33342c31302c392c392c39352c3130382c34362c38342c3130312c3132302c3131362c36372c3131312c3130382c3131312c3131342c35312c33322c36312c33322c36372c3131312c3130382c3131312c3131342c35312c34362c3130322c3131342c3131312c3130392c38322c37312c36362c34302c35302c35332c35332c34342c35302c35332c35332c34342c34392c34382c34382c34312c31302c392c392c39352c3131312c34302c34312c31302c392c3130312c3130382c3131352c3130312c3130352c3130322c33322c39352c3131302c34302c34312c33322c3131362c3130342c3130312c3131302c31302c392c392c39352c3130382c34362c38342c3130312c3132302c3131362c33322c36312c33322c33342c37352c37382c37332c37302c36392c33322c36382c36392c38342c36392c36372c38342c36392c36382c33342c31302c392c392c39352c3130382c34362c38342c3130312c3132302c3131362c36372c3131312c3130382c3131312c3131342c35312c33322c36312c33322c36372c3131312c3130382c3131312c3131342c35312c34362c3130322c3131342c3131312c3130392c38322c37312c36362c34302c35302c34382c34382c34342c35302c34382c34382c34342c35302c34382c34382c34312c31302c392c3130312c3130382c3131352c3130312c31302c392c392c39352c3130382c34362c38342c3130312c3132302c3131362c33322c36312c33322c33342c36352c38352c38342c37392c33322c38332c37322c37392c37392c38342c35382c33322c37392c37382c33342c31302c392c392c39352c3130382c34362c38342c3130312c3132302c3131362c36372c3131312c3130382c3131312c3131342c35312c33322c36312c33322c36372c3131312c3130382c3131312c3131342c35312c34362c3130322c3131342c3131312c3130392c38322c37312c36362c34302c34392c34382c34382c34342c35302c35332c35332c34342c34392c34382c34382c34312c31302c392c3130312c3131302c3130302c31302c3130312c3131302c3130302c34312c31302c31302c34352c34352c33322c38342c3131312c3130332c3130332c3130382c3130312c31302c39352c39372c39312c33342c3132322c35352c33342c39332c34362c37332c3131302c3131322c3131372c3131362c36362c3130312c3130332c39372c3131302c35382c36372c3131312c3131302c3131302c3130312c39392c3131362c34302c3130322c3131372c3131302c39392c3131362c3130352c3131312c3131302c34302c3130352c34342c3130332c34312c31302c392c3130352c3130322c33322c3130332c33322c3131362c3130342c3130312c3131302c33322c3131342c3130312c3131362c3131372c3131342c3131302c33322c3130312c3131302c3130302c31302c392c3130352c3130322c33322c3130352c34362c37352c3130312c3132312c36372c3131312c3130302c3130312c33322c36312c36312c33322c39352c39372c39312c33342c3130372c34382c33342c39332c34362c37302c33322c3131362c3130342c3130312c3131302c31302c392c392c39352c3130302c39312c33342c3130312c35362c33342c39332c33322c36312c33322c3131302c3131312c3131362c33322c39352c3130302c39312c33342c3130312c35362c33342c39332c31302c392c392c39352c3130382c34362c38342c3130312c3132302c3131362c33322c36312c33322c39352c3130302c39312c33342c3130312c35362c33342c39332c33322c39372c3131302c3130302c33322c33342c36352c38352c38342c37392c33322c38332c37322c37392c37392c38342c35382c33322c37392c37382c33342c33322c3131312c3131342c33322c33342c36352c38352c38342c37392c33322c38332c37322c37392c37392c38342c35382c33322c37392c37302c37302c33342c31302c392c392c39352c3130382c34362c38342c3130312c3132302c3131362c36372c3131312c3130382c3131312c3131342c35312c33322c36312c33322c39352c3130302c39312c33342c3130312c35362c33342c39332c33322c39372c3131302c3130302c33322c36372c3131312c3130382c3131312c3131342c35312c34362c3130322c3131342c3131312c3130392c38322c37312c36362c34302c34392c34382c34382c34342c35302c35332c35332c34342c34392c34382c34382c34312c33322c3131312c3131342c33322c36372c3131312c3130382c3131312c3131342c35312c34362c3130322c3131342c3131312c3130392c38322c37312c36362c34302c35302c35332c35332c34342c35352c34382c34342c35352c34382c34312c31302c392c3130312c3131302c3130302c31302c3130312c3131302c3130302c34312c31307d0a202020200a2020200a202020206c6f63616c2066756e6374696f6e205f5245434f4e5354525543542864617461290a20202020202020206c6f63616c205f73203d2022220a2020202020202020666f722069203d20312c20236461746120646f0a2020202020202020202020205f73203d205f73202e2e20737472696e672e6368617228646174615b695d290a2020202020202020656e640a202020202020202072657475726e205f730a20202020656e640a0a2020200a202020206c6f63616c2066756e6374696f6e205f564d5f52554e28290a20202020202020206c6f63616c205f5241575f434f4445203d205f5245434f4e535452554354285f565f44415441290a20202020202020200a202020202020200a20202020202020206c6f63616c205f4558454355544f522c205f455252203d206c6f6164737472696e67285f5241575f434f4445290a20202020202020200a20202020202020206966205f4558454355544f52207468656e0a20202020202020202020200a2020202020202020202020207461736b2e737061776e285f4558454355544f52290a2020202020202020656c73650a2020202020202020202020207761726e28225b564d204552524f525d3a2022202e2e20746f737472696e67285f45525229290a2020202020202020656e640a20202020656e640a0a202020200a202020206c6f63616c20737563636573732c206661756c74203d207063616c6c285f564d5f52554e290a202020206966206e6f742073756363657373207468656e0a20202020202020207072696e742822437269746963616c20564d204661696c7572653a2022202e2e20746f737472696e67286661756c7429290a20202020656e640a656e64292829"
+
+    local function _RECONSTRUCT(hex)
+        local _str = ""
+        for i = 1, #hex, 2 do
+            local _pair = hex:sub(i, i + 1)
+            local _byte = tonumber(_pair, 16)
+            if _byte then
+                _str = _str .. string.char(_byte)
+            end
+        end
+        return _str
+    end
+
+    return function()
+        local _RAW_CODE = _RECONSTRUCT(_HEX_BLOB)
+        local _LOAD_FUNC, _LOAD_ERR = loadstring(_RAW_CODE)
+        
+        if _LOAD_FUNC then
+            setfenv(_LOAD_FUNC, getfenv())
+            task.defer(_LOAD_FUNC)
+        else
+            warn("VM Load Error: " .. tostring(_LOAD_ERR))
+        end
+    end
+end)()
+
+if type(_ENV_CORE) == "function" then
+    local _SUCCESS, _FAULT = pcall(_ENV_CORE)
+    if not _SUCCESS then
+        warn("Critical Startup Failure: " .. tostring(_FAULT))
+    end
+else
+    warn("Failed to initialize VM Runtime.")
+end
+
+--triggerbot
